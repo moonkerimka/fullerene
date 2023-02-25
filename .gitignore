@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 draft.md
+~$fullerene_experiments.xlsx
+fullerene_experiments.xlsx
